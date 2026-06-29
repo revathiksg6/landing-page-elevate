@@ -20,7 +20,7 @@ nav a:hover{color:#e94560;}
 .skills h2{font-size:2rem;margin-bottom:40px;color:white;}
 .skills-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:20px;max-width:800px;margin:0 auto;}
 .skill-card{background:#1f2937;padding:20px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.08);font-weight:600;color:#1a1a2e;}
-footer{background:white;color:#aaa;text-align:center;padding:32px 24px;}
+footer{background:#1a1a2e;;color:#aaa;text-align:center;padding:32px 24px;}
 footer p{margin-bottom:12px;font-size:0.9rem;}
 .social-links{display:flex;justify-content:center;gap:20px;}
 .social-links a{color:#e94560;text-decoration:none;font-weight:600;}
