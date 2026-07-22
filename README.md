@@ -1,16 +1,33 @@
-# Task 1 - Responsive Landing Page
+# Responsive Landing Page 🌐
 
-Built a responsive personal landing page using HTML5 and CSS3.
+A clean and fully responsive landing page built as part of the **Elevate Labs Web Development Internship – Task 1**.
 
-## Features
-- Sticky header with mobile hamburger menu
-- Hero section with CTA button
-- Skills grid using CSS Grid
-- Footer with social links
-- Fully responsive using media queries
+## 📌 Objective
+Build a responsive landing page with a header, hero section, skills section, and footer using HTML5 and CSS3.
 
-## Tech Used
-HTML5, CSS3, Flexbox, Grid, Media Queries
+## ✨ Features
+- Sticky navigation header with hamburger menu for mobile
+- Hero section with name, tagline, and call-to-action button
+- Skills section using CSS Grid
+- Responsive footer with social links
+- Mobile-first design using media queries
 
-## Live Demo
-https://revathiksg6.github.io/landing-page-elevate/
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Media Queries
+- JavaScript (hamburger toggle)
+
+## 🚀 Live Demo
+[Click here to view](https://revathiksg6.github.io/landing-page-elevate/)
+
+## 📁 Files
+- `index.html` – Page structure
+- `style.css` – Styling and responsive design
+
+## 👩‍💻 Author
+Revathi K S G  
+Final Year B.E. CSE | Aspiring Software Developer  
+[GitHub](https://github.com/revathiksg6)
