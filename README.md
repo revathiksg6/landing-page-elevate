@@ -1,18 +1,16 @@
-# Responsive Landing Page
+# Task 1 - Responsive Landing Page
 
-This project is a simple responsive landing page created using HTML, CSS, and JavaScript.
+Built a responsive personal landing page using HTML5 and CSS3.
 
 ## Features
-- Responsive Header
-- Hero Section
-- Skills Section
-- Footer
-- Mobile Friendly Design
+- Sticky header with mobile hamburger menu
+- Hero section with CTA button
+- Skills grid using CSS Grid
+- Footer with social links
+- Fully responsive using media queries
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+## Tech Used
+HTML5, CSS3, Flexbox, Grid, Media Queries
 
-## Author
-Revathi K S G
+## Live Demo
+https://revathiksg6.github.io/landing-page-elevate/
